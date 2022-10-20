@@ -18,7 +18,7 @@
       - Correct File Path
       <img src="./Fig/File.png" width="100%" height="100%">
   - 4. Compile the java code (Edit sort)
-  <img src="./Fig/Compile.png" width="100%" height="100%">
+  <img src="./Fig/Compile.png" width="100%" height="80%">
 
 </font>  
 
