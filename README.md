@@ -1,10 +1,10 @@
-<font size=6>
+
 
 [Grain](https://trac.cc.jyu.fi/projects/grain) - A Java data analysis system for Total Data Readout
 
 
 # Install
-
+<font size=6>
   - 1. [Download](./Grain-code)
   - 2. Decompress
     - tar -xvjf grain-1.0.tgz
@@ -19,7 +19,7 @@
   - 4. Compile the java code (Edit sort)
   <img src="./Fig/Compile.png" width="100%" height="100%">
 
-  
+</font>  
 
 
 # Ref
