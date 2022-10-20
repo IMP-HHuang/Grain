@@ -6,11 +6,12 @@
   - 1. [Download](./Grain-code)
   - 2. Decompress
     - tar -xvjf grain-1.0.tgz
-  - 3. Set Eviroment
-    - 1. Java evrioment 
-    - 2. Grain evrioment (Setting -> Preference) 
+  - 3. Set Environment
+    - 1. Java environment 
+    - 2. Grain evnironment (Setting -> Preference) 
       - Correct paths to javac compiler(Javac Path) and the location of grain.jar (!!!Not grain.sh)
       <img src="./Fig/Compiler.png" width="100%" height="100%">
+      - Correct File Path
 
 
   
