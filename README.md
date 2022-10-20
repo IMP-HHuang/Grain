@@ -1,4 +1,6 @@
-# [Grain](https://trac.cc.jyu.fi/projects/grain) - A Java data analysis system for Total Data Readout
+<font size=4 face="微软雅黑">
+
+[Grain](https://trac.cc.jyu.fi/projects/grain) - A Java data analysis system for Total Data Readout
 
 
 # Install
