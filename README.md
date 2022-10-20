@@ -11,7 +11,9 @@
     - 2. Grain evnironment (Setting -> Preference) 
       - Correct paths to javac compiler(Javac Path) and the location of grain.jar (!!!Not grain.sh)
       <img src="./Fig/Compiler.png" width="100%" height="100%">
+      
       - Correct File Path
+      <img src="./Fig/File.png" width="100%" height="100%">
 
 
   
