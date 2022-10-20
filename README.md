@@ -16,12 +16,12 @@
       <img src="./Fig/Compiler.png" width="80%" height="80%">
       
       - Correct File Path
-      <img src="./Fig/File.png" width="80%" height="80%">
+         <img src="./Fig/File.png" width="80%" height="80%">
   - 4. Compile the java code (Edit sort)
-      <img src="./Fig/Compile.png" width="60%" height="60%">
+         <img src="./Fig/Compile.png" width="60%" height="60%">
   
   - 5. Run
-      <img src="./Fig/Run.png" width="60%" height="60%">
+          <img src="./Fig/Run.png" width="60%" height="60%">
 
 </font>  
 
