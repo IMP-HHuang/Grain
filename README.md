@@ -9,7 +9,7 @@
   - 1. [Download](./Grain-code)
   - 2. Decompress
     - tar -xvjf grain-1.0.tgz
-  - 3. Set Environment
+  - 3. [Set Environment](https://trac.cc.jyu.fi/projects/grain/wiki/GrainDocs)
     - 1. Java environment 
     - 2. [Grain evnironment](https://trac.cc.jyu.fi/projects/grain/wiki/GrainConfiguration) (Setting -> Preference) 
       - Correct paths to javac compiler(Javac Path) and the location of grain.jar (!!!Not grain.sh)
