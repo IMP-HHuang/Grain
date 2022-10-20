@@ -1,4 +1,4 @@
-<font size=4 face="微软雅黑">
+<font size=6>
 
 [Grain](https://trac.cc.jyu.fi/projects/grain) - A Java data analysis system for Total Data Readout
 
